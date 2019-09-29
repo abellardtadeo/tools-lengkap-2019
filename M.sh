@@ -137,6 +137,10 @@ sh install.aex
  apt install nmap
  pip2 install mechanize
  pip2 install requests
+ pkg install vim
+ gem install lolcat
+ pkg install cowsay
+ pkg install neofetch
 echo "jika bahan sudah di download sekarang kalian pilih yang mana tools yang kamu ingin jalankan" | lolcat
  
  ;;
